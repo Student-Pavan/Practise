@@ -1,0 +1,11 @@
+    \n → Newline
+    \t → Tab
+    \\ → Backslash
+    \' → Single quote
+    \" → Double quote
+    \b → Backspace
+    \r → Carriage return
+    \f → Form feed
+    \uXXXX → Unicode character
+    \OOO → Octal representation
+    \xXX → Hexadecimal representation
